@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firesystems/static/css/main.34fbadb2.chunk.css",
+    "main.js": "/firesystems/static/js/main.ce303de2.chunk.js",
+    "main.js.map": "/firesystems/static/js/main.ce303de2.chunk.js.map",
+    "runtime-main.js": "/firesystems/static/js/runtime-main.bb5b0936.js",
+    "runtime-main.js.map": "/firesystems/static/js/runtime-main.bb5b0936.js.map",
+    "static/js/2.11bbca11.chunk.js": "/firesystems/static/js/2.11bbca11.chunk.js",
+    "static/js/2.11bbca11.chunk.js.map": "/firesystems/static/js/2.11bbca11.chunk.js.map",
+    "index.html": "/firesystems/index.html",
+    "precache-manifest.859f13b78d5be1609faac12d3f71ef3c.js": "/firesystems/precache-manifest.859f13b78d5be1609faac12d3f71ef3c.js",
+    "service-worker.js": "/firesystems/service-worker.js",
+    "static/css/main.34fbadb2.chunk.css.map": "/firesystems/static/css/main.34fbadb2.chunk.css.map",
+    "static/js/2.11bbca11.chunk.js.LICENSE.txt": "/firesystems/static/js/2.11bbca11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb5b0936.js",
+    "static/js/2.11bbca11.chunk.js",
+    "static/css/main.34fbadb2.chunk.css",
+    "static/js/main.ce303de2.chunk.js"
+  ]
+}
